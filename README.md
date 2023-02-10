@@ -5,8 +5,8 @@ My name is Marcos Panontin, I am a former Educator currently studying Web Develo
 You can find me on <a href="https://www.linkedin.com/in/marcos-panontin/">LinkedIn</a>.
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-panontin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-panontin&layout=compact&langs_count=10&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcos-panontin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-panontin&layout=compact&langs_count=10&theme=dark"/>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
