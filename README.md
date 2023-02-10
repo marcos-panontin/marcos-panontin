@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my Github 👋
+
+My name is Marcos Panontin, I am a former Educator currently studying Web Development. I am passionate about tech, education and making awesome things happen
 
 <!--
 **marcos-panontin/marcos-panontin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
