@@ -2,7 +2,7 @@
 
 My name is Marcos Panontin, I am a former Educator currently studying Web Development. I am passionate about tech, education and making awesome things happen!
 
-You can find me on <a href="https://www.linkedin.com/in/marcos-panontin/">LinkedIn</a> or visit <a href="https://marcos-panontin.github.io">My Portfolio</a>. I will be glad to get your message 😄.
+You can find me on <a href="https://www.linkedin.com/in/marcos-panontin/" target="_blank">LinkedIn</a> or visit <a href="https://marcos-panontin.github.io" target="_blank">My Portfolio</a>. I will be glad to get your message 😄.
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcos-panontin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
