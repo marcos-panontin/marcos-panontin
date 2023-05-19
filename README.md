@@ -1,6 +1,6 @@
 ### Welcome to my Github 👋
 
-My name is Marcos Panontin, I am a former Educator currently studying Web Development. I am passionate about tech, education and making awesome things happen!
+My name is Marcos Panontin, I am a Linguist currently studying Web Development. I am passionate about tech, education and making awesome things happen!
 
 You can find me on <a href="https://www.linkedin.com/in/marcos-panontin/" target="_blank">LinkedIn</a> or visit <a href="https://marcos-panontin.github.io" target="_blank">My Portfolio</a>. I will be glad to get your message 😄.
 
