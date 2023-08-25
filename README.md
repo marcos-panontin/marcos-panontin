@@ -22,7 +22,6 @@ You can find me on <a href="https://www.linkedin.com/in/marcos-panontin/" target
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" />
 </p>
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcos-panontin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
