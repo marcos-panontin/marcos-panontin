@@ -4,6 +4,8 @@ My name is Marcos Panontin, I am a Linguist currently studying Web Development. 
 
 You can find me on <a href="https://www.linkedin.com/in/marcos-panontin/" target="_blank">LinkedIn</a> or visit <a href="https://marcos-panontin.github.io" target="_blank">My Portfolio</a>. I will be glad to get your message 😄.
 
+JavaScript | React.js | Node.js| Redux | Context API | Jest | RTL | Bootstrap | Tailwind | Git | Metodologias Ágeis (SCRUM e Kanban) | Docker | MySQL | Banco de Dados | HTML | CSS
+
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcos-panontin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-panontin&layout=compact&langs_count=10&theme=dark"/>
